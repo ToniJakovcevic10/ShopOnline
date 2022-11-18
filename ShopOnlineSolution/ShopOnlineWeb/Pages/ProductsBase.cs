@@ -16,6 +16,17 @@ namespace ShopOnlineWeb.Pages
             Products = await ProductService.getItems();
         }
 
+        protected IOrderedEnumerable<IGrouping<int, ProductDto>> getGroupedProductsByCategory()
+        {
+            return from product in Products
+                   group product by product.CategoryId into productsByCategoryGroup
+                   orderby productsByCategoryGroup.Key
+                   select productsByCategoryGroup;
+        }
 
+        protected string getCategoryName(IGrouping<int, ProductDto> groupedProductDtos)
+        {
+            return groupedProductDtos.FirstOrDefault(pg => pg.CategoryId == groupedProductDtos.Key).CategoryName;
+        }
     }
 }
