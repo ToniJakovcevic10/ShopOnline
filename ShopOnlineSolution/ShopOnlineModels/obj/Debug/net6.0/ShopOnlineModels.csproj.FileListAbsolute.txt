@@ -1,0 +1,12 @@
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\bin\Debug\net6.0\ShopOnlineModels.deps.json
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\bin\Debug\net6.0\ShopOnlineModels.dll
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\bin\Debug\net6.0\ShopOnlineModels.pdb
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.csproj.AssemblyReference.cache
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.AssemblyInfoInputs.cache
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.AssemblyInfo.cs
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.csproj.CoreCompileInputs.cache
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.dll
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\refint\ShopOnlineModels.dll
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ShopOnlineModels.pdb
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineModels\obj\Debug\net6.0\ref\ShopOnlineModels.dll
