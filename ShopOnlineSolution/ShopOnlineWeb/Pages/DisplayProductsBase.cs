@@ -7,5 +7,6 @@ namespace ShopOnlineWeb.Pages
     {
         [Parameter]
         public IEnumerable<ProductDto> Products { get; set; }
+
     }
 }

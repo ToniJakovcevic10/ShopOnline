@@ -26,8 +26,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/DisplayErrors.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9ycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/Products.razor]
@@ -45,6 +53,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/DisplayProducts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-0dixnd7kxo
+
+[C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/DisplaySpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bgplr14xah
 
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
