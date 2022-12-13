@@ -37,7 +37,7 @@ namespace ShopOnlineWeb.Pages
             try
             {
                 var cartItemDto = await shoppingCartService.AddItem(cartItemToAddDto);
-                NavigationManager.NavigateTo("/ShoppingCart");
+                NavigationManager.NavigateTo("ShoppingCart");
             }
             catch (Exception)
             {

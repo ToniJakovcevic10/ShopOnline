@@ -12,12 +12,12 @@ namespace ShopOnlineAPI.Controllers
     {
         public ShoppingCartController(IShoppingCartRepository shoppingCartRepository, IProductRepository productRepository)
         {
-            ShoppingCartRepository = shoppingCartRepository;
-            ProductRepository = productRepository;
+            _shoppingCartRepository = shoppingCartRepository;
+            _productRepository = productRepository;
         }
 
-        public IShoppingCartRepository ShoppingCartRepository { get; }
-        public IProductRepository ProductRepository { get; }
+        public IShoppingCartRepository _shoppingCartRepository { get; }
+        public IProductRepository _productRepository { get; }
 
         [HttpGet]
         [Route("{userId}/GetItems")]
@@ -25,12 +25,12 @@ namespace ShopOnlineAPI.Controllers
         {
             try
             {
-                var cartItems = await this.ShoppingCartRepository.GetItems(userId);
+                var cartItems = await _shoppingCartRepository.GetItems(userId);
                 if(cartItems == null)
                 {
                     return NoContent();
                 }
-                var products = await this.ProductRepository.getItems();
+                var products = await _productRepository.getItems();
                 
                 if(products == null)
                 {
@@ -51,12 +51,12 @@ namespace ShopOnlineAPI.Controllers
         {
             try
             {
-                var cartItem = await this.ShoppingCartRepository.GetItem(id);
+                var cartItem = await _shoppingCartRepository.GetItem(id);
                 if(cartItem == null)
                 {
                     return NotFound();
                 }
-                var product = await this.ProductRepository.getItem(cartItem.Id);
+                var product = await _productRepository.getItem(cartItem.Id);
                 if(product == null)
                 {
                     throw new Exception("No products exist in the system");
@@ -75,12 +75,12 @@ namespace ShopOnlineAPI.Controllers
         {
             try
             {
-                var newCartItem = await this.ShoppingCartRepository.AddItem(cartItemToAddDto);
+                var newCartItem = await _shoppingCartRepository.AddItem(cartItemToAddDto);
                 if(newCartItem == null)
                 {
                     return NoContent();
                 }
-                var product = await ProductRepository.getItem(newCartItem.ProductId);
+                var product = await _productRepository.getItem(newCartItem.ProductId);
 
                 if(product == null)
                 {

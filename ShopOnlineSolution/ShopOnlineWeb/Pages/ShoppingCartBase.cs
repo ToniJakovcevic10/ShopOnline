@@ -20,7 +20,6 @@ namespace ShopOnlineWeb.Pages
             }
             catch (Exception ex)
             {
-
                 ErrorMessage = ex.Message;
             }
         }

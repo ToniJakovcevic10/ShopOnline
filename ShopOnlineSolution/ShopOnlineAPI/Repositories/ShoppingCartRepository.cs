@@ -16,7 +16,7 @@ namespace ShopOnlineAPI.Repositories
 
         private async Task<bool> CartItemExists(int cartId, int productId)
         {
-            return await this._shopOnlineDbContext.CartItems.AnyAsync(c=>c.CartId ==cartId && c.ProductId == productId);
+            return await _shopOnlineDbContext.CartItems.AnyAsync(c=>c.CartId ==cartId && c.ProductId == productId);
         }
         public async Task<CartItem> AddItem(CartItemToAddDto cartItemToAddDto)
         {
@@ -32,8 +32,8 @@ namespace ShopOnlineAPI.Repositories
                                   }).SingleOrDefaultAsync();
                 if (item != null)
                 {
-                    var result = await this._shopOnlineDbContext.CartItems.AddAsync(item);
-                    await this._shopOnlineDbContext.SaveChangesAsync();
+                    var result = await _shopOnlineDbContext.CartItems.AddAsync(item);
+                    await _shopOnlineDbContext.SaveChangesAsync();
                     return result.Entity;
                 }
             }
@@ -47,8 +47,8 @@ namespace ShopOnlineAPI.Repositories
 
         public async Task<CartItem> GetItem(int id)
         {
-            return await (from cart in this._shopOnlineDbContext.Carts
-                          join cartItem in this._shopOnlineDbContext.CartItems
+            return await (from cart in _shopOnlineDbContext.Carts
+                          join cartItem in _shopOnlineDbContext.CartItems
                           on cart.Id equals cartItem.CartId
                           where cartItem.Id == id
                           select new CartItem
@@ -62,8 +62,8 @@ namespace ShopOnlineAPI.Repositories
 
         public async Task<IEnumerable<CartItem>> GetItems(int userId)
         {
-            return await (from cart in this._shopOnlineDbContext.Carts
-                          join cartItem in this._shopOnlineDbContext.CartItems
+            return await (from cart in _shopOnlineDbContext.Carts
+                          join cartItem in _shopOnlineDbContext.CartItems
                           on cart.Id equals cartItem.CartId
                           where cart.UserId == userId
                           select new CartItem
