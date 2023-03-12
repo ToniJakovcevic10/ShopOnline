@@ -821,3 +821,9 @@ C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlin
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\bin\Debug\net6.0\ShopOnlineModels.pdb
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\build-gz\ziUAkZhP.gz
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\build-gz\i5Click+.gz
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\build-gz\vQ+IN+mo.gz
