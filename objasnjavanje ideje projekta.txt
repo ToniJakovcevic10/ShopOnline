@@ -1,0 +1,7 @@
+radim shopping online aplikaciju. 
+zasada u bazi imamo klase User, Cart, CartItem, Product, ProductCategory povezane :
+
+	User -- Cart -->> CartItem <<-- Product <<-- ProductCategory
+
+
+puca mi kod, ne dohvacam lipo vrijednost 
