@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5hJdxaAkCRNJ1lb8qXdnQiKLZSY3+NWzvPMwzzoedPA=",
+  "Hash": "HuLXnJHYku9y5r9ikI/iWmSxqqEvbxdlFa27esfAya8=",
   "Source": "ShopOnlineWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -7580,6 +7580,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\tonij\\Desktop\\projektici\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnlineWeb\\wwwroot\\js\\ShoppingCartFunctions.js",
+      "SourceId": "ShopOnlineWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tonij\\Desktop\\projektici\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnlineWeb\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/ShoppingCartFunctions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ShoppingCartFunctions.js"
     },
     {
       "Identity": "C:\\Users\\tonij\\Desktop\\projektici\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnlineWeb\\wwwroot\\sample-data\\weather.json",

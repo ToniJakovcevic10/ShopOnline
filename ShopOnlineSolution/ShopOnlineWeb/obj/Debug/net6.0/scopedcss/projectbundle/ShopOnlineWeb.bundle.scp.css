@@ -119,6 +119,10 @@ img[b-0dixnd7kxo] {
         transform: scale(1.5);
     }
 }
+/* /Pages/ShoppingCart.razor.rz.scp.css */
+.update-quantity[b-lrtmisneq9]{
+    display:none;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-yuy51km9dg] {
     position: relative;

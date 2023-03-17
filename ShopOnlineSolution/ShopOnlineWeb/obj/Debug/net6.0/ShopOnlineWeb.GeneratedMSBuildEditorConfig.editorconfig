@@ -42,10 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/ShoppingCart.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -61,6 +57,10 @@ build_metadata.AdditionalFiles.CssScope = b-0dixnd7kxo
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/DisplaySpinner.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVNwaW5uZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bgplr14xah
+
+[C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-lrtmisneq9
 
 [C:/Users/tonij/Desktop/projektici/ShopOnlineProject/ShopOnlineSolution/ShopOnlineWeb/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
