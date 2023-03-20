@@ -6,9 +6,10 @@ using ShopOnlineModels.Dtos;
 
 namespace ShopOnlineAPI.Repositories
 {
-    public class ShoppingCartRepository:IShoppingCartRepository
+    public class ShoppingCartRepository : IShoppingCartRepository
     {
         private readonly ShopOnlineDbContext _shopOnlineDbContext;
+
         public ShoppingCartRepository(ShopOnlineDbContext shopOnlineDbContext)
         {
             _shopOnlineDbContext = shopOnlineDbContext;
@@ -93,5 +94,6 @@ namespace ShopOnlineAPI.Repositories
             return null;
         }
 
+        
     }
 }
