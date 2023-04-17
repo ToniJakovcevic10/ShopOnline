@@ -197,15 +197,25 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
+<<<<<<< HEAD
       "ShopOnlineModels.dll": "sha256-zISwcZEdYHjNDLOzj7on4CN7R18gAvsOISOlxaU8fpM=",
       "ShopOnlineWeb.dll": "sha256-WfSWKeCrTPsIN4IZAI340Zyn8S1GGiFMCnqs0paH+aA="
+=======
+      "ShopOnlineModels.dll": "sha256-pRfd4h45Te3CiZLNvEicAaYXVznDR7uGoDMGpHId\/vo=",
+      "ShopOnlineWeb.dll": "sha256-HlLPM4vRWwo1L6\/\/fdu75q44wtVO9zWXTsM92S+elCQ="
+>>>>>>> 54c7736a43bf505ad9cad4ea42a1934a17dbc757
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
+<<<<<<< HEAD
       "ShopOnlineModels.pdb": "sha256-5MEDADqx6o\/PcRixFhu5RMRBQhOJbsURLbHgcoOXew0=",
       "ShopOnlineWeb.pdb": "sha256-DQypxaBsyglnDSakwVeIA3lqP7TMThd9sAJTEfiTHRc="
+=======
+      "ShopOnlineModels.pdb": "sha256-jy8Bu4h7azbRfmymgoLWN3Rvz8kHW1Mg5y+FTc4vNSU=",
+      "ShopOnlineWeb.pdb": "sha256-RDu5e3FAKlyy4QESdXK\/78HcXiJtDA7ouRZnP2w5AsI="
+>>>>>>> 54c7736a43bf505ad9cad4ea42a1934a17dbc757
     },
     "runtime": {
       "dotnet.6.0.16.9kzksgakn4.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",

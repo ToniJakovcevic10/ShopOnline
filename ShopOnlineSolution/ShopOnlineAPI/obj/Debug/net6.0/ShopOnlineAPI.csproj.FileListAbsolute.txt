@@ -62,3 +62,8 @@ C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlin
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\ref\ShopOnlineAPI.dll
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\bin\Debug\net6.0\ShopOnlineModels.dll
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\bin\Debug\net6.0\ShopOnlineModels.pdb
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\staticwebassets\msbuild.ShopOnlineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopOnlineAPI.props
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopOnlineAPI.props
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopOnlineAPI.props
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineAPI\obj\Debug\net6.0\staticwebassets.pack.json
