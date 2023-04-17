@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LsNHMAc08C+G5XF6l72fslV9rwwIptwxekWTUanDQPHoe7Hq+PdZvXL0VJQCc7P/PrnHvaQlVeURUW1ixBk/Nw==",
+  "dgSpecHash": "OE1DIBttPTnhAetZ4hbOy2o/f5s7mDKjE9ij6GHX2M8//9Ykjia53xFgHLICcH7yXR6aFdxHE/wHNFRCCZmkAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tonij\\Desktop\\projektici\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnlineWeb\\ShopOnlineWeb.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\tonij\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\tonij\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.3.nupkg.sha512"
+    "C:\\Users\\tonij\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.16\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
