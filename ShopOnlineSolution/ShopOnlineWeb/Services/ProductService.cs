@@ -65,5 +65,32 @@ namespace ShopOnlineWeb.Services
                 throw;
             }
         }
+
+        public async Task<IEnumerable<ProductCategoryDto>> getProductCategories()
+        {
+            try
+            {
+                var response = await _httpClient.GetAsync("api/Product/getProductCategories");
+
+                if(response.IsSuccessStatusCode)
+                {
+                    if(response.StatusCode == System.Net.HttpStatusCode.NoContent)
+                    {
+                        return Enumerable.Empty<ProductCategoryDto>();
+                    }
+                    return await response.Content.ReadFromJsonAsync<IEnumerable<ProductCategoryDto>>();
+                }
+                else
+                {
+                    var message = await response.Content.ReadAsStringAsync();
+                    throw new Exception($"Http status code - {response} Message - {message}");
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }
