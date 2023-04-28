@@ -833,3 +833,4 @@ C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlin
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopOnlineWeb.props
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopOnlineWeb.props
 C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tonij\Desktop\projektici\ShopOnlineProject\ShopOnlineSolution\ShopOnlineWeb\obj\Debug\net6.0\scopedcss\Shared\ProductCategoriesNavMenu.razor.rz.scp.css
