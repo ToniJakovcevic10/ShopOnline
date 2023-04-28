@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OE1DIBttPTnhAetZ4hbOy2o/f5s7mDKjE9ij6GHX2M8//9Ykjia53xFgHLICcH7yXR6aFdxHE/wHNFRCCZmkAw==",
+  "dgSpecHash": "AQi/kFAEwFUCHpnuzW51G6MrBeTFcEPZEiUFY37ArMhNAk54UDirL5ICbJjA/1jca7MwgTYAoNty8On3Zitt0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\tonij\\Desktop\\projektici\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnlineWeb\\ShopOnlineWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tonij\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.3\\microsoft.aspnetcore.components.analyzers.6.0.3.nupkg.sha512",
