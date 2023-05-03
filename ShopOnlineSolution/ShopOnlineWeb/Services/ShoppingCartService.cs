@@ -18,12 +18,12 @@ namespace ShopOnlineWeb.Services
         {
             try
             { 
-                var response = await _httpClient.PostAsJsonAsync<CartItemToAddDto>("api/ShoppingCart", cartItemToAddDto);
+                var response = await _httpClient.PostAsJsonAsync("api/ShoppingCart", cartItemToAddDto);
                 if (response.IsSuccessStatusCode)
                 {
                     if (response.StatusCode == System.Net.HttpStatusCode.NoContent)
                     {
-                        return default(CartItemDto);
+                        return default;
                     }
                     return await response.Content.ReadFromJsonAsync<CartItemDto>();
                 }
